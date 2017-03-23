@@ -16,7 +16,7 @@ btn.addEventListener('click', function() {
         plateNum.value = '';
         townAmount.push(newPlate);
     } else {
-        alert('Please enter a plate value!')
+        alert('I need a registration number PLEASE!!')
     }
 
 });
