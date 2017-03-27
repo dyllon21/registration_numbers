@@ -26,7 +26,7 @@
     height: 130px;
     text-align: center;
     margin: auto;
-    background-color: skyblue;
+    background-color: gold;
     border-bottom-right-radius: 50%;
     border-bottom-left-radius: 50%;
     padding-top: 20px;
@@ -47,5 +47,8 @@
 }
 
 body {
-background-image: url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHfI74Kas9UvF1EpLaGweAEucWTBZnP_9vseczSTRnHvfU_Oc-');
+background-image: url('https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbpVUWxtxTSnl3WKQ9nu6UTvVrwWn67KV3U3xx6-709WMkJbg5dQ');
+background-repeat: no-repeat;
+background-size: cover;
+
 }
